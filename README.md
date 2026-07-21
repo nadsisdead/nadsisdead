@@ -5,7 +5,8 @@
 <p>
  <div align="left"> 
 <img src="assets/interpollyr.jpg" height="130px" width="240px">  
-</p>
+</div>
+ </p>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead)  
 
