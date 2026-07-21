@@ -1,3 +1,3 @@
 she gon call me baby boo
 
-<c>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead)<c>
+<center>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead)<center>
