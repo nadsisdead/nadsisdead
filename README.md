@@ -4,7 +4,7 @@
 
 <p>
  <div align="left"> 
-<img src="assets/interpollyr.jpg" height="130px" width="240px">  
+<img src="assets/interpollyr.jpg" height="170px" width="240px">  
 </div>
  </p>
 
