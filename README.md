@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/fire.gif">  
+<img src="assets/fire.gif" width="100%">  
 
 <p>
  <div align="left"> 
