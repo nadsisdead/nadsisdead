@@ -4,5 +4,5 @@
 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead)  
 
-<img src="assets/botteeth.jpg">
+<img src="assets/botteeth.jpg" height="75px" width="240px">
 </div>
