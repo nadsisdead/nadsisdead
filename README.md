@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/topteeth.jpg">  
+<img src="assets/topteeth.jpg" height=150px>  
 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead)  
 
