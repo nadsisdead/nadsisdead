@@ -12,14 +12,8 @@
 
 | （*＾-＾*） | ＼（〇_ｏ）／ |
 | --- | --- |
-| left top | right top |
-| left bottom | right bottom |
- 
- <div>
- <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto"> 
-  
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xaiomixi)
- </div>
+| <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto">  | ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xaiomixi) |
+
  
  </div>
 
