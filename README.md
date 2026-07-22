@@ -3,9 +3,7 @@
 <img src="assets/fire.gif" width="100%">  
 <br>
 
-> [!NOTE]
-> This page likely has layout issues on phones, sorry about that!
- 
+> (This page likely has layout issues on phones, sorry about that!)
  <h3>
  
  ```diff
