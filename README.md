@@ -3,8 +3,7 @@
 <img src="assets/fire.gif" width="100%">  
 
 <p>
-
- <h3>
+<h3>
  
  ```diff
  ! HTTP Status Code: 200 OK
@@ -13,9 +12,8 @@
  
  <div>
  <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto">
-  <div width:"400px" height="auto">
    
-   **nads** 
+  **nads** 
  </div>
  
  </div>
