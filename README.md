@@ -14,7 +14,7 @@
 | --- | --- |
 | 	<ins>i am **nads**, or.. i don't know call me whatever you want</ins> <br>> i don't use github very often (or better yet never), mostly just for testing and having a  _cool profile_.. <br>================	<br>My neocities is currently unfinished but it's going to be cooler than this github someday! <br><a href="https://9naida.neocities.org"><img alt="neocities button" src="assets/neocities.png"></a> | <img alt="pdude" src="assets/dudespin.gif" height="200px" width="auto"> |
 |  |  |
-| <img alt="guitar" src="assets/guitard.png" height="300px" width="auto"><img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="auto" width="350"> | <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="300px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="300px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="300px" height="auto"> |
+| <img alt="guitar" src="assets/guitar.png" height="300px" width="auto"><img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="auto" width="350"> | <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="300px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="300px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="300px" height="auto"> |
 
  </div>
 
