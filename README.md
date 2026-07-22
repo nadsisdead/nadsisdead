@@ -17,8 +17,8 @@
 | --- | --- |
 | 	 <ins>i am **nads**, or.. i don't know call me whatever you want</ins> <br>> i don't use github very often (or better yet never), mostly just for testing and having a  _cool profile_.. <br><img alt="gradient" src="assets/ogradient.png" width="100%">	<br>My neocities is currently unfinished but it's going to be cooler than this github someday! <br><a href="https://9naida.neocities.org"><img alt="neocities button" src="assets/neocities.png"></a> | <img alt="pdude" src="assets/dudespin.gif" height="200px" width="auto"> |
 |  |  |
-| <img alt="guitar" src="assets/gui.png" height="300px" width="auto"><img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="auto" width="350"> | <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="300px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="300px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="300px" height="auto"> |
+| <img alt="guitar" src="assets/gui.png" height="300px" width="auto"><img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="auto" width="350"> | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nadsisdead&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=nadsisdead&langs_count=4&theme=great-gatsby) |
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead) (thank you!) 
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnadsisdead&longCache=true"/> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead) (thank you!) 
 
 </div>
