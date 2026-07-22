@@ -9,6 +9,11 @@
  ! HTTP Status Code: 200 OK
 ```
 </h3>
+
+| （*＾-＾*） | ＼（〇_ｏ）／ |
+| --- | --- |
+| left top | right top |
+| left bottom | right bottom |
  
  <div>
  <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto"> 
