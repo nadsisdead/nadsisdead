@@ -1,16 +1,17 @@
-<div align="center">
-
 <img src="assets/fire.gif" width="100%">  
-<br>
 
-> [!NOTE]
-> I'm currently looking for Toyhou.se invite codes, hmu if you have one
- 
- <h3>
- ```diff
+ <span align="center">
+  
+   ```diff
  ! HTTP Status Code: 200 OK // welcome to my github profile!
 ```
-</h3>
+> [!NOTE]
+> I am currently looking for **Toyhou.se invite codes**, hmu if you have one <img src="assets/smil.gif">
+
+</span>
+
+
+<div align="center">
 
 | .1 | .2 |
 | --- | --- |
