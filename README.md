@@ -11,7 +11,9 @@
 </h3>
  
  <div>
- <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto"> ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xaiomixi)
+ <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto"> 
+  
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xaiomixi)
  </div>
  
  </div>
