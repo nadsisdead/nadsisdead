@@ -12,7 +12,7 @@
 
 |  |  |
 | --- | --- |
-| <img alt="postal dude" src="assets/dudespin.gif" height="200px" width="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="200px" width="auto"> |
+| <img alt="postal dude" src="assets/dudespin.gif" height="200px" width="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="300px" width="auto"> |
 
  
  </div>
