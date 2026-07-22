@@ -9,7 +9,7 @@
 ```
 
  <div>
- <img alt="postal dude" src="assets/dudespin.gif">
+ <img alt="postal dude" src="assets/dudespin.gif" height="260px" width="auto">
   <div width:"400px" height="auto">
    
    **nads** 
