@@ -3,6 +3,7 @@
 <img src="assets/fire.gif" width="100%">  
 
 <p>  
+
 > [!NOTE]
 > >This page likely has layout issues on mobile devices, sorry about that!
  
