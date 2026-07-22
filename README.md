@@ -4,7 +4,8 @@
 
 <p>
 
- <h3>(this could have potential layout issues on mobile devices)</h3>
+ > [!NOTE]
+>This page likely has layout issues on mobile devices, sorry about that!
  <h3>
  
  ```diff
