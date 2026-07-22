@@ -3,7 +3,9 @@
 <img src="assets/fire.gif" width="100%">  
 
 <p>
-<h3>
+
+ <h3>(this could have potential layout issues on mobile devices)</h3>
+ <h3>
  
  ```diff
  ! HTTP Status Code: 200 OK // welcome to my github profile!
