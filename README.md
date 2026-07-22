@@ -6,7 +6,7 @@
 <h3>
  
  ```diff
- ! HTTP Status Code: 200 OK // welcome to my github profile! cough cough i have NOTHING here
+ ! HTTP Status Code: 200 OK // welcome to my github profile! i have NOTHING here at all lmao
 ```
 </h3>
 
