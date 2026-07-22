@@ -3,6 +3,9 @@
 <img src="assets/fire.gif" width="100%">  
 <br>
  <h3>
+
+> [!NOTE]
+> I'm currently looking for Toyhou.se invite codes, hmu if you have one
  
  ```diff
  ! HTTP Status Code: 200 OK // welcome to my github profile!
