@@ -12,7 +12,7 @@
 
 |  |  |
 | --- | --- |
-| <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="200px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="200px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="200px" height="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="280px" width="auto"> |
+| <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="230px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="230px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="230px" height="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="280px" width="auto"> |
 
  
  </div>
