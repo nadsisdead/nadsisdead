@@ -5,7 +5,7 @@
 <p>  
 
 > [!NOTE]
-> >This page likely has layout issues on mobile devices, sorry about that!
+> This page likely has layout issues on mobile devices, sorry about that!
  
  <h3>
  
