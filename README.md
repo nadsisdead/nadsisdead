@@ -15,7 +15,7 @@
 
 | .3 | .4 |
 | --- | --- |
-| <img alt="guitar" src="assets/gui.png" height="300px" width="auto"><img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="auto" width="350"> | <img src="assets/88x31/antifascism.gif" width="132px"><br> |
+| <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="auto" width="350"> | <img src="assets/88x31/antifascism.gif" width="132px"><br> |
 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnadsisdead&longCache=true"/> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead) <img src="assets/tehe.gif">
 
