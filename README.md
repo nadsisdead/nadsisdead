@@ -3,7 +3,11 @@
 <img src="assets/fire.gif" width="100%">  
 
 <p>
-HTTP Status Code: **200 OK**
+
+ ```diff
+ ! HTTP Status Code: 200 OK
+```
+
  <div>
  <img alt="postal dude" src="assets/dudespin.gif">
   <div width:"400px" height="auto">
