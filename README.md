@@ -12,7 +12,7 @@
 
 |  |  |
 | --- | --- |
-| <img alt="postal dude" src="assets/dudespin.gif" height="200px" width="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="300px" width="auto"> |
+| <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg"> <img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg"> <img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="300px" width="auto"> |
 
  
  </div>
