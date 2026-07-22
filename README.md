@@ -17,6 +17,6 @@
  
  </div>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead)  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nadsisdead) (thank you!) 
 
 </div>
