@@ -12,7 +12,7 @@
 
 |  |  |  |
 | --- | --- | --- |
-| i am nads, <br>i don't use github very often (or better yet <br>never), mostly just for testing and having a <br> _cool profile_.. <br>My neocities is currently unfinished <br>but it's goinh to be cooler than this <br>github someday | <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="230px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="230px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="230px" height="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="280px" width="auto"> |
+| i am nads, <br>i don't use github very often (or better yet <br>never), mostly just for testing and having a <br> _cool profile_.. <br>My neocities is currently unfinished <br>but it's going to be cooler than this <br>github someday! | <img alt="piracy userbox" src="assets/usbx/piracyusbx.jpg" width="230px" height="auto"><br><img alt="undiagnosed userbox" src="assets/usbx/undiagusbx.jpg" width="230px" height="auto"><br><img alt="I LOVE INTERPOL userbox" src="assets/usbx/interpolusbx.jpg" width="230px" height="auto">  | <img alt="lastfm last played" src="https://lastfm-recently-played.vercel.app/api?user=xaiomixi" height="280px" width="auto"> |
 
  
  </div>
