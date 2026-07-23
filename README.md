@@ -3,7 +3,7 @@
  <span align="center">
   
    ```diff
- ! HTTP Status Code: 200 OK // welcome to my github profile!
+ ! HTTP Status Code: 200 OK // welcome to my GitHub!
 ```
 > [!NOTE]
 > I am currently looking for **Toyhou.se invite codes**, hmu if you have one <img src="assets/smil.gif">
